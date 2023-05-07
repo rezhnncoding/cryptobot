@@ -10,8 +10,9 @@ Download a release or directly build the code from this repository.
 go get github.com/rezhnncoding/cryptobot
 If you need to, you can create a strategy and bind it to the bot:
 
-import bot "github.com/rezhnncoding/cryptobot"
-
+import(
+bot "github.com/rezhnncoding/cryptobot"
+)
 
 func main() {
     bot.AddCustomStrategy(examples.MyStrategy)
