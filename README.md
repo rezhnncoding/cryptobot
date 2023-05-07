@@ -8,17 +8,6 @@ A golang implementation of a console-based trading bot for cryptocurrency exchan
 ### Usage
 Download a release or directly build the code from this repository.
 go get github.com/rezhnncoding/cryptobot
-If you need to, you can create a strategy and bind it to the bot:
-
-import(
-bot "github.com/rezhnncoding/cryptobot"
-)
-
-func main() {
-    bot.AddCustomStrategy(examples.MyStrategy)
-    bot.Execute()
-}
-
 
 ### Configuration file template
 Create a configuration file from this example or run the init command of the compiled executable.
