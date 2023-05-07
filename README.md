@@ -70,6 +70,7 @@ strategies:
      #### donate
      Feel free to donate:
      SEPAH 5892101440517841
+   
      tether :text for info
      
      
