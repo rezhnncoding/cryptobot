@@ -73,4 +73,11 @@ strategies:
    
      tether :text for info
      
+     for exchanges 
+     
+     text via contacts:09338584335
+     
+     or
+     
+     via gmail :rezanemateiiii@gmail.com
      
