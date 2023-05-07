@@ -11,6 +11,7 @@ Download a release or directly build the code from this repository.
 
 go get github.com/rezhnncoding/cryptobot
 
+
 If you need to, you can create a strategy and bind it to the bot:
 
 
